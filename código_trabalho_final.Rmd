@@ -1,6 +1,6 @@
 ---
 title: "código_trabalho_final"
-author: "João Gonçalves"
+author: ""
 date: "`r Sys.Date()`"
 output: html_document
 ---
